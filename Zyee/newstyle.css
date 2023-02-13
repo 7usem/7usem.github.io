@@ -1,0 +1,63 @@
+header h1{
+    font-family: 'Gentium Book Plus', serif;
+    color: rgb(247, 211, 144);
+    margin-right: 750px;
+}
+header img{
+    height: 64px;
+    width: 64px;
+    border-radius: 50%;
+    padding: auto;
+
+}
+header h4{
+    font-family: 'Mukta', sans-serif;
+    text-align: inherit;
+    color: rgb(234, 231, 227);
+    border-left: 5px solid rgb(247, 211, 144);
+    padding-left : 5px;
+}
+.p{
+    font-size: medium;
+    font-family: 'Mukta', sans-serif;
+    text-align: center;
+}
+.socialmedia{
+    text-align: center;
+}
+/*main{
+    background-color: rgb(165, 200, 130);
+}*/
+header{
+    background-color: rgba(0, 36, 27, 0.775);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:0px 50px ;
+    margin: 0%;
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+body{
+    margin:0px;
+    display: block;
+    background-image:url("/images/POST1.jpg") ;
+}
+.arabic{
+    font-family: 'Cairo', sans-serif;
+}
+img {
+    width: 32px;
+    height: 32px;
+    margin: 16px;
+}
+.store{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    padding: 0px 400px;
+}
